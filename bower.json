@@ -1,0 +1,22 @@
+{
+  "name": "basicWebStackAngular",
+  "version": "0.1.0",
+  "description": "black",
+  "main": "Gruntfile.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/13DeAnda/basicWebStackAngular.git"
+  },
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-route": "~1.5.8",
+    "angular-loader": "~1.5.0",
+    "angular-mocks": "~1.5.0",
+    "jquery": "~3.0.0",
+    "angular-bootstrap": "^2.2.0"
+  },
+  "resolutions": {
+    "angular": "1.5.11"
+  }
+}
